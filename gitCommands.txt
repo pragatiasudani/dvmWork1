@@ -1,0 +1,14 @@
+basic commands:
+git clone <repoLink> -to clone ur folder(repository) from github
+git status -to check the changes made
+git add <filename with extension> -to add a file (not required if we modify the file)
+git commit -to freeze the file to be uploaded
+git push -to upload the file on github
+git pull -to download the changes made on the folder
+
+Note:
+1. use 'git add *' to add all the files in the folder at once
+
+
+additional:
+git log
