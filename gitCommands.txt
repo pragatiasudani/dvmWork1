@@ -5,6 +5,7 @@ git add <filename with extension> -to add a file (not required if we modify the 
 git commit -to freeze the file to be uploaded
 git push -to upload the file on github
 git pull -to download the changes made on the folder
+hello
 
 Note:
 1. use 'git add *' to add all the files in the folder at once
